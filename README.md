@@ -21,12 +21,8 @@ Standard SAM3 keeps historical data for every person and every frame, causing VR
 
 ## 🛠 Setup and Environment
 
-To ensure the code runs with the correct dependencies, use the provided Conda environment file:
+To ensure the code runs with the correct dependencies, use the provided requirement.txt file:
 
-```bash
-conda env create -f environment.yml
-conda activate [env_name]
-```
 
 ---
 
